@@ -39,5 +39,5 @@ The best dashboard explanation format.
 🚀Walk through of key visuals (briefly)
 📝Impact & Insights
 
-6.Screenshot :-
+6.Screenshot :-https://github.com/tirupatirayudu/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.png
 Hospital Emergency Room Dashboard Power BI Dashboard
